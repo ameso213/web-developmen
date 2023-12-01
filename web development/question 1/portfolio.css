@@ -1,0 +1,15 @@
+.portfolio{
+    display:flex;
+    text-align: center;
+    color:whitesmoke;
+    weight: bold;
+    padding:50px
+    background-color:black;
+
+}
+.reg no{
+    display:flex;
+    text-align: center;
+    color:white;
+    background-color: black;
+}
